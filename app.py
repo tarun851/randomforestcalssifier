@@ -18,7 +18,7 @@ from sklearn.metrics import (
     accuracy_score,
     confusion_matrix,
     classification_report
-)
+
 
 # =========================================================
 # PAGE CONFIG
@@ -28,7 +28,7 @@ st.set_page_config(
     page_title="Random Forest Classifier",
     page_icon="🌲",
     layout="wide"
-)
+
 
 # =========================================================
 # CUSTOM CSS
